@@ -1,0 +1,7 @@
+{
+  "name": "cor-to-cap",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
